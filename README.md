@@ -1,29 +1,16 @@
-# D1 Northwind Demo
+# D1 NorthDazzle Demo
 
 
 ## What we use
 
-- Cloudflare [Workers](https://workers.cloudflare.com/) for computing
-- [D1](https://blog.cloudflare.com/introducing-d1/) for database
-- [Wrangler](https://github.com/cloudflare/wrangler2) for building
+- Cloudflare  for computing
+- [D1] for database
 - [Typescript](https://www.typescriptlang.org/) for better Javascript
 - [Tailwind CSS](https://tailwindcss.com/) for the UI
 - [React](https://reactjs.org/) for DOM interaction
 - [React Router v7](https://reactrouter.com/home) for the React framework
 
 ## Get the demo running
-
-Requirements:
-
-- You need a Cloudflare Account
-- You need to get D1 [enabled](https://www.cloudflare.com/en-gb/lp/d1/) for your account
-- Please join our [developers Discord](https://discord.com/invite/cloudflaredev)
-- Please install [nodejs](https://github.com/nvm-sh/nvm) (we're using v18.8.0), npm and [npx](https://www.npmjs.com/package/npx)
-
-### Clone this repo
-
-```
-git clone https://github.com/cloudflare/d1-northwind
 ```
 
 ### Install packages
